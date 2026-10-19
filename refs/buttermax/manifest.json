@@ -22,7 +22,7 @@
     1,
     900
    ],
-   "diff": 0.446,
+   "diff": 0.478,
    "scroll": "wrapper"
   },
   {
@@ -32,27 +32,27 @@
     0,
     900
    ],
-   "diff": 0.468,
+   "diff": 0.496,
    "scroll": "wrapper"
   },
   {
    "file": "03.jpg",
-   "y": 2697,
+   "y": 2698,
    "keep": [
-    2,
+    1,
     900
    ],
-   "diff": 0.131,
+   "diff": 0.13,
    "scroll": "wrapper"
   },
   {
    "file": "04.jpg",
    "y": 3248,
    "keep": [
-    349,
+    350,
     900
    ],
-   "diff": 0.371,
+   "diff": 0.36,
    "scroll": "wrapper"
   }
  ]
