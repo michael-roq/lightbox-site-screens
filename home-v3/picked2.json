@@ -1,0 +1,206 @@
+{
+ "route": "/",
+ "picked": "2026-10-19, Michael (Michel log #148): a scroll scene appears ONCE, one settled frame of one item its title scrolls through",
+ "shots": [
+  {
+   "file": "home-v3/00-top.jpg",
+   "section": "top",
+   "scrollY": 0,
+   "keep": [
+    0,
+    900
+   ],
+   "kind": "state"
+  },
+  {
+   "file": "home-v3/01-intro.jpg",
+   "section": "intro",
+   "scrollY": 1530,
+   "keep": [
+    0,
+    444
+   ],
+   "kind": "piece"
+  },
+  {
+   "file": "home-v3/05z-seen-final.jpg",
+   "section": "seen",
+   "scrollY": 4110,
+   "keep": [
+    0,
+    815
+   ],
+   "kind": "final"
+  },
+  {
+   "file": "home-v3/07z-brand-final.jpg",
+   "section": "brand",
+   "scrollY": 6270,
+   "keep": [
+    0,
+    815
+   ],
+   "kind": "final"
+  },
+  {
+   "file": "home-v3/10-inside.jpg",
+   "section": "inside",
+   "scrollY": 8304,
+   "keep": [
+    0,
+    900
+   ],
+   "kind": "state"
+  },
+  {
+   "file": "home-v3/19z-build-final.jpg",
+   "section": "build",
+   "scrollY": 12390,
+   "keep": [
+    0,
+    815
+   ],
+   "kind": "final"
+  },
+  {
+   "file": "home-v3/19-marquee.jpg",
+   "section": "marquee",
+   "scrollY": 13368,
+   "keep": [
+    0,
+    218
+   ],
+   "kind": "piece"
+  },
+  {
+   "file": "home-v3/20-work.jpg",
+   "section": "work",
+   "scrollY": 13586,
+   "keep": [
+    0,
+    900
+   ],
+   "kind": "piece"
+  },
+  {
+   "file": "home-v3/21-work.jpg",
+   "section": "work",
+   "scrollY": 14486,
+   "keep": [
+    0,
+    900
+   ],
+   "kind": "piece"
+  },
+  {
+   "file": "home-v3/22-work.jpg",
+   "section": "work",
+   "scrollY": 15386,
+   "keep": [
+    0,
+    900
+   ],
+   "kind": "piece"
+  },
+  {
+   "file": "home-v3/23-work.jpg",
+   "section": "work",
+   "scrollY": 16286,
+   "keep": [
+    0,
+    900
+   ],
+   "kind": "piece"
+  },
+  {
+   "file": "home-v3/24-work.jpg",
+   "section": "work",
+   "scrollY": 17186,
+   "keep": [
+    0,
+    900
+   ],
+   "kind": "piece"
+  },
+  {
+   "file": "home-v3/25-work.jpg",
+   "section": "work",
+   "scrollY": 18086,
+   "keep": [
+    0,
+    762
+   ],
+   "kind": "piece"
+  },
+  {
+   "file": "home-v3/26-tools.jpg",
+   "section": "tools",
+   "scrollY": 18848,
+   "keep": [
+    0,
+    659
+   ],
+   "kind": "piece"
+  },
+  {
+   "file": "home-v3/27-clients.jpg",
+   "section": "clients",
+   "scrollY": 19508,
+   "keep": [
+    0,
+    515
+   ],
+   "kind": "piece"
+  },
+  {
+   "file": "home-v3/28-process.jpg",
+   "section": "process",
+   "scrollY": 20023,
+   "keep": [
+    0,
+    512
+   ],
+   "kind": "piece"
+  },
+  {
+   "file": "home-v3/29-team.jpg",
+   "section": "team",
+   "scrollY": 20535,
+   "keep": [
+    0,
+    673
+   ],
+   "kind": "piece"
+  },
+  {
+   "file": "home-v3/30-contact.jpg",
+   "section": "contact",
+   "scrollY": 21208,
+   "keep": [
+    0,
+    900
+   ],
+   "kind": "piece"
+  },
+  {
+   "file": "home-v3/31-contact.jpg",
+   "section": "contact",
+   "scrollY": 21783,
+   "keep": [
+    325,
+    383
+   ],
+   "kind": "piece"
+  },
+  {
+   "file": "home-v3/32-foot.jpg",
+   "section": "foot",
+   "scrollY": 21783,
+   "keep": [
+    382,
+    900
+   ],
+   "kind": "piece"
+  }
+ ]
+}
