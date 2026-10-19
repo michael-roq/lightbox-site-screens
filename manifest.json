@@ -1,0 +1,1000 @@
+{
+ "base": "https://lightboxcollective.co",
+ "viewport": {
+  "width": 1440,
+  "height": 900,
+  "dpr": 2
+ },
+ "pages": [
+  {
+   "route": "/",
+   "url": "https://lightboxcollective.co/",
+   "title": "Lightbox · Creative agency, Tyler, Texas",
+   "height": 22683,
+   "shots": [
+    {
+     "file": "home/00-top.jpg",
+     "section": "top",
+     "scrollY": 0,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "home/01-intro.jpg",
+     "section": "intro",
+     "scrollY": 1530,
+     "keep": [
+      0,
+      444
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "home/02-seen.jpg",
+     "section": "seen",
+     "scrollY": 1974,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "home/03-seen.jpg",
+     "section": "seen",
+     "scrollY": 2214,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "home/04-brand.jpg",
+     "section": "brand",
+     "scrollY": 5034,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "home/05-brand.jpg",
+     "section": "brand",
+     "scrollY": 5274,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "home/06-inside.jpg",
+     "section": "inside",
+     "scrollY": 7194,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "home/07-inside.jpg",
+     "section": "inside",
+     "scrollY": 7434,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "home/08-build.jpg",
+     "section": "build",
+     "scrollY": 10794,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "home/09-build.jpg",
+     "section": "build",
+     "scrollY": 11034,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "home/10-marquee.jpg",
+     "section": "marquee",
+     "scrollY": 13368,
+     "keep": [
+      0,
+      218
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "home/11-work.jpg",
+     "section": "work",
+     "scrollY": 13586,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "home/12-work.jpg",
+     "section": "work",
+     "scrollY": 14486,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "home/13-work.jpg",
+     "section": "work",
+     "scrollY": 15386,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "home/14-work.jpg",
+     "section": "work",
+     "scrollY": 16286,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "home/15-work.jpg",
+     "section": "work",
+     "scrollY": 17186,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "home/16-work.jpg",
+     "section": "work",
+     "scrollY": 18086,
+     "keep": [
+      0,
+      762
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "home/17-tools.jpg",
+     "section": "tools",
+     "scrollY": 18848,
+     "keep": [
+      0,
+      659
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "home/18-clients.jpg",
+     "section": "clients",
+     "scrollY": 19508,
+     "keep": [
+      0,
+      515
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "home/19-process.jpg",
+     "section": "process",
+     "scrollY": 20023,
+     "keep": [
+      0,
+      512
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "home/20-team.jpg",
+     "section": "team",
+     "scrollY": 20535,
+     "keep": [
+      0,
+      673
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "home/21-contact.jpg",
+     "section": "contact",
+     "scrollY": 21208,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "home/22-contact.jpg",
+     "section": "contact",
+     "scrollY": 21783,
+     "keep": [
+      325,
+      383
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "home/23-foot.jpg",
+     "section": "foot",
+     "scrollY": 21783,
+     "keep": [
+      382,
+      900
+     ],
+     "kind": "piece"
+    }
+   ]
+  },
+  {
+   "route": "/work/east-texas-state-fair",
+   "url": "https://lightboxcollective.co/work/east-texas-state-fair",
+   "title": "East Texas State Fair · Lightbox",
+   "height": 15606,
+   "shots": [
+    {
+     "file": "east-texas-state-fair/00-case-glow.jpg",
+     "section": "case__glow",
+     "scrollY": 0,
+     "keep": [
+      0,
+      819
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/01-case-glow.jpg",
+     "section": "case__glow",
+     "scrollY": 819,
+     "keep": [
+      0,
+      72
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/02-case-hero.jpg",
+     "section": "case__hero",
+     "scrollY": 104,
+     "keep": [
+      0,
+      420
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/03-fair-banner.jpg",
+     "section": "fair-banner",
+     "scrollY": 534,
+     "keep": [
+      0,
+      802
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/04-case-overview.jpg",
+     "section": "case__overview",
+     "scrollY": 1406,
+     "keep": [
+      0,
+      617
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/05-facts.jpg",
+     "section": "facts",
+     "scrollY": 2023,
+     "keep": [
+      0,
+      168
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/06-case-photos.jpg",
+     "section": "case__photos",
+     "scrollY": 2192,
+     "keep": [
+      0,
+      510
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/07-fair.jpg",
+     "section": "fair",
+     "scrollY": 2702,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "east-texas-state-fair/08-fair.jpg",
+     "section": "fair",
+     "scrollY": 2942,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "east-texas-state-fair/09-fair-block.jpg",
+     "section": "fair__block",
+     "scrollY": 2702,
+     "keep": [
+      0,
+      470
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/10-rail.jpg",
+     "section": "rail",
+     "scrollY": 3172,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "east-texas-state-fair/11-rail.jpg",
+     "section": "rail",
+     "scrollY": 3412,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "east-texas-state-fair/12-fair-block.jpg",
+     "section": "fair__block",
+     "scrollY": 6232,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/13-fair-block.jpg",
+     "section": "fair__block",
+     "scrollY": 7132,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/14-fair-block.jpg",
+     "section": "fair__block",
+     "scrollY": 8032,
+     "keep": [
+      0,
+      255
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/15-fair-block.jpg",
+     "section": "fair__block",
+     "scrollY": 8287,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/16-fair-block.jpg",
+     "section": "fair__block",
+     "scrollY": 9187,
+     "keep": [
+      0,
+      220
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/17-fair-block.jpg",
+     "section": "fair__block",
+     "scrollY": 9407,
+     "keep": [
+      0,
+      442
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/18-rail.jpg",
+     "section": "rail",
+     "scrollY": 9849,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "east-texas-state-fair/19-rail.jpg",
+     "section": "rail",
+     "scrollY": 10089,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "east-texas-state-fair/20-fair-credit.jpg",
+     "section": "fair-credit",
+     "scrollY": 12960,
+     "keep": [
+      0,
+      348
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/21-case-next.jpg",
+     "section": "case__next",
+     "scrollY": 13307,
+     "keep": [
+      0,
+      823
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/22-contact.jpg",
+     "section": "contact",
+     "scrollY": 14130,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/23-contact.jpg",
+     "section": "contact",
+     "scrollY": 14706,
+     "keep": [
+      324,
+      382
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "east-texas-state-fair/24-foot.jpg",
+     "section": "foot",
+     "scrollY": 14706,
+     "keep": [
+      382,
+      900
+     ],
+     "kind": "piece"
+    }
+   ]
+  },
+  {
+   "route": "/work/mia",
+   "url": "https://lightboxcollective.co/work/mia",
+   "title": "Mia · Lightbox",
+   "height": 10427,
+   "shots": [
+    {
+     "file": "mia/00-case-glow.jpg",
+     "section": "case__glow",
+     "scrollY": 0,
+     "keep": [
+      0,
+      819
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/01-case-glow.jpg",
+     "section": "case__glow",
+     "scrollY": 819,
+     "keep": [
+      0,
+      72
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/02-case-hero.jpg",
+     "section": "case__hero",
+     "scrollY": 104,
+     "keep": [
+      0,
+      364
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/03-case-film.jpg",
+     "section": "case__film",
+     "scrollY": 468,
+     "keep": [
+      0,
+      825
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/04-case-overview.jpg",
+     "section": "case__overview",
+     "scrollY": 1293,
+     "keep": [
+      0,
+      622
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/05-facts.jpg",
+     "section": "facts",
+     "scrollY": 1915,
+     "keep": [
+      0,
+      139
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/06-mia.jpg",
+     "section": "mia",
+     "scrollY": 2054,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/07-mia.jpg",
+     "section": "mia",
+     "scrollY": 2954,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/08-mia.jpg",
+     "section": "mia",
+     "scrollY": 3854,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/09-mia.jpg",
+     "section": "mia",
+     "scrollY": 4754,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/10-mia.jpg",
+     "section": "mia",
+     "scrollY": 5654,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/11-mia.jpg",
+     "section": "mia",
+     "scrollY": 6554,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/12-mia.jpg",
+     "section": "mia",
+     "scrollY": 7454,
+     "keep": [
+      0,
+      674
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/13-mia-feat.jpg",
+     "section": "mia-feat",
+     "scrollY": 2084,
+     "keep": [
+      0,
+      558
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/14-mia-feat.jpg",
+     "section": "mia-feat",
+     "scrollY": 2768,
+     "keep": [
+      0,
+      524
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/15-mia-feat.jpg",
+     "section": "mia-feat",
+     "scrollY": 3418,
+     "keep": [
+      0,
+      558
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/16-mia-feat.jpg",
+     "section": "mia-feat",
+     "scrollY": 4102,
+     "keep": [
+      0,
+      316
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/17-mia-feat.jpg",
+     "section": "mia-feat",
+     "scrollY": 4544,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/18-mia-feat.jpg",
+     "section": "mia-feat",
+     "scrollY": 5444,
+     "keep": [
+      0,
+      171
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/19-mia-feat.jpg",
+     "section": "mia-feat",
+     "scrollY": 5740,
+     "keep": [
+      0,
+      558
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/20-mia-feat.jpg",
+     "section": "mia-feat",
+     "scrollY": 6424,
+     "keep": [
+      0,
+      558
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/21-mia-brand.jpg",
+     "section": "mia-brand",
+     "scrollY": 7234,
+     "keep": [
+      0,
+      774
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/22-case-next.jpg",
+     "section": "case__next",
+     "scrollY": 8128,
+     "keep": [
+      0,
+      823
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/23-contact.jpg",
+     "section": "contact",
+     "scrollY": 8951,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/24-contact.jpg",
+     "section": "contact",
+     "scrollY": 9527,
+     "keep": [
+      324,
+      382
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "mia/25-foot.jpg",
+     "section": "foot",
+     "scrollY": 9527,
+     "keep": [
+      382,
+      900
+     ],
+     "kind": "piece"
+    }
+   ]
+  },
+  {
+   "route": "/work/author-app",
+   "url": "https://lightboxcollective.co/work/author-app",
+   "title": "Author App · Lightbox",
+   "height": 4022,
+   "shots": [
+    {
+     "file": "author-app/00-case-glow.jpg",
+     "section": "case__glow",
+     "scrollY": 0,
+     "keep": [
+      0,
+      819
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "author-app/01-case-glow.jpg",
+     "section": "case__glow",
+     "scrollY": 819,
+     "keep": [
+      0,
+      72
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "author-app/02-case-hero.jpg",
+     "section": "case__hero",
+     "scrollY": 104,
+     "keep": [
+      0,
+      328
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "author-app/03-case-overview.jpg",
+     "section": "case__overview",
+     "scrollY": 432,
+     "keep": [
+      0,
+      388
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "author-app/04-evo.jpg",
+     "section": "evo",
+     "scrollY": 820,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "author-app/05-case-next.jpg",
+     "section": "case__next",
+     "scrollY": 1723,
+     "keep": [
+      0,
+      823
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "author-app/06-contact.jpg",
+     "section": "contact",
+     "scrollY": 2546,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "author-app/07-contact.jpg",
+     "section": "contact",
+     "scrollY": 3122,
+     "keep": [
+      324,
+      382
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "author-app/08-foot.jpg",
+     "section": "foot",
+     "scrollY": 3122,
+     "keep": [
+      382,
+      900
+     ],
+     "kind": "piece"
+    }
+   ]
+  },
+  {
+   "route": "/work/filmstrip",
+   "url": "https://lightboxcollective.co/work/filmstrip",
+   "title": "Filmstrip · Lightbox",
+   "height": 5333,
+   "shots": [
+    {
+     "file": "filmstrip/00-case-glow.jpg",
+     "section": "case__glow",
+     "scrollY": 0,
+     "keep": [
+      0,
+      819
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "filmstrip/01-case-glow.jpg",
+     "section": "case__glow",
+     "scrollY": 819,
+     "keep": [
+      0,
+      72
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "filmstrip/02-case-hero.jpg",
+     "section": "case__hero",
+     "scrollY": 104,
+     "keep": [
+      0,
+      328
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "filmstrip/03-case-overview.jpg",
+     "section": "case__overview",
+     "scrollY": 432,
+     "keep": [
+      0,
+      484
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "filmstrip/04-facts.jpg",
+     "section": "facts",
+     "scrollY": 916,
+     "keep": [
+      0,
+      139
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "filmstrip/05-rail.jpg",
+     "section": "rail",
+     "scrollY": 1055,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "filmstrip/06-rail.jpg",
+     "section": "rail",
+     "scrollY": 1295,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "state"
+    },
+    {
+     "file": "filmstrip/07-case-next.jpg",
+     "section": "case__next",
+     "scrollY": 3035,
+     "keep": [
+      0,
+      823
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "filmstrip/08-contact.jpg",
+     "section": "contact",
+     "scrollY": 3858,
+     "keep": [
+      0,
+      900
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "filmstrip/09-contact.jpg",
+     "section": "contact",
+     "scrollY": 4433,
+     "keep": [
+      325,
+      383
+     ],
+     "kind": "piece"
+    },
+    {
+     "file": "filmstrip/10-foot.jpg",
+     "section": "foot",
+     "scrollY": 4433,
+     "keep": [
+      383,
+      900
+     ],
+     "kind": "piece"
+    }
+   ]
+  }
+ ]
+}
