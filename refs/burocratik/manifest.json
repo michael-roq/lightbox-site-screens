@@ -1,0 +1,119 @@
+{
+ "url": "https://burocratik.com/",
+ "title": "We are Büro",
+ "width": 1440,
+ "height": 900,
+ "dpr": 2,
+ "frames": [
+  {
+   "file": "00.jpg",
+   "y": 0,
+   "keep": [
+    0,
+    900
+   ],
+   "diff": null,
+   "scroll": "native"
+  },
+  {
+   "file": "01.jpg",
+   "y": 899,
+   "keep": [
+    1,
+    900
+   ],
+   "diff": 0.576,
+   "scroll": "native"
+  },
+  {
+   "file": "02.jpg",
+   "y": 1799,
+   "keep": [
+    0,
+    900
+   ],
+   "diff": 0.228,
+   "scroll": "native"
+  },
+  {
+   "file": "03.jpg",
+   "y": 2697,
+   "keep": [
+    2,
+    900
+   ],
+   "diff": 0.519,
+   "scroll": "native"
+  },
+  {
+   "file": "04.jpg",
+   "y": 3596,
+   "keep": [
+    1,
+    900
+   ],
+   "diff": 0.42,
+   "scroll": "native"
+  },
+  {
+   "file": "05.jpg",
+   "y": 4496,
+   "keep": [
+    0,
+    900
+   ],
+   "diff": 0.052,
+   "scroll": "native"
+  },
+  {
+   "file": "06.jpg",
+   "y": 5394,
+   "keep": [
+    2,
+    900
+   ],
+   "diff": 0.259,
+   "scroll": "native"
+  },
+  {
+   "file": "07.jpg",
+   "y": 6293,
+   "keep": [
+    1,
+    900
+   ],
+   "diff": 0.324,
+   "scroll": "native"
+  },
+  {
+   "file": "08.jpg",
+   "y": 7193,
+   "keep": [
+    0,
+    900
+   ],
+   "diff": 0.259,
+   "scroll": "native"
+  },
+  {
+   "file": "09.jpg",
+   "y": 8091,
+   "keep": [
+    2,
+    900
+   ],
+   "diff": 0.069,
+   "scroll": "native"
+  },
+  {
+   "file": "10.jpg",
+   "y": 8819,
+   "keep": [
+    172,
+    900
+   ],
+   "diff": 0.059,
+   "scroll": "native"
+  }
+ ]
+}

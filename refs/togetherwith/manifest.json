@@ -1,0 +1,69 @@
+{
+ "url": "https://togetherwith.com/",
+ "title": "Togetherwith – Dare to be human",
+ "width": 1440,
+ "height": 900,
+ "dpr": 2,
+ "frames": [
+  {
+   "file": "00.jpg",
+   "y": 0,
+   "keep": [
+    0,
+    900
+   ],
+   "diff": null,
+   "scroll": "native"
+  },
+  {
+   "file": "01.jpg",
+   "y": 899,
+   "keep": [
+    1,
+    900
+   ],
+   "diff": 0.387,
+   "scroll": "native"
+  },
+  {
+   "file": "02.jpg",
+   "y": 1800,
+   "keep": [
+    0,
+    900
+   ],
+   "diff": 0.237,
+   "scroll": "native"
+  },
+  {
+   "file": "03.jpg",
+   "y": 2699,
+   "keep": [
+    1,
+    900
+   ],
+   "diff": 0.305,
+   "scroll": "native"
+  },
+  {
+   "file": "04.jpg",
+   "y": 3599,
+   "keep": [
+    0,
+    900
+   ],
+   "diff": 0.308,
+   "scroll": "native"
+  },
+  {
+   "file": "05.jpg",
+   "y": 4207,
+   "keep": [
+    292,
+    900
+   ],
+   "diff": 0.054,
+   "scroll": "native"
+  }
+ ]
+}
