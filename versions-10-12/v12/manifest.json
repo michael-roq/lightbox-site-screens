@@ -1,0 +1,47 @@
+{
+ "url": "https://lightboxcollective.co/",
+ "width": 1440,
+ "scale": 2,
+ "shots": [
+  {
+   "file": "00-hero.jpg",
+   "name": "hero",
+   "h": 900
+  },
+  {
+   "file": "01-line.jpg",
+   "name": "line",
+   "h": 900
+  },
+  {
+   "file": "02-brands.jpg",
+   "name": "brands",
+   "h": 900
+  },
+  {
+   "file": "03-work-1of3.jpg",
+   "name": "work-1of3",
+   "h": 1410
+  },
+  {
+   "file": "04-work-2of3.jpg",
+   "name": "work-2of3",
+   "h": 1410
+  },
+  {
+   "file": "05-work-3of3.jpg",
+   "name": "work-3of3",
+   "h": 1408
+  },
+  {
+   "file": "06-contact.jpg",
+   "name": "contact",
+   "h": 979
+  },
+  {
+   "file": "07-footer.jpg",
+   "name": "footer",
+   "h": 403
+  }
+ ]
+}
